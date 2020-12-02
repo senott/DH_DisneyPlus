@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60f0e0af-defa-4494-9910-0fa7f963d7a4/deploy-status)](https://app.netlify.com/sites/quizzical-roentgen-3dc621/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5164c59c-82a5-4c42-a213-e1acefb07787/deploy-status)](https://app.netlify.com/sites/dh-disney-plus/deploys)
 
 <p align="center">
   <h3 align="center">Disney +</h3>
@@ -35,7 +35,7 @@
     <a href="https://github.com/senott/DH_DisneyPlus"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://quizzical-roentgen-3dc621.netlify.app/index.html">View Demo</a>
+    <a href="https://dh-disney-plus.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/senott/DH_DisneyPlus/issues">Report Bug</a>
     ·
@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://quizzical-roentgen-3dc621.netlify.app/index.html)
+[![Product Name Screen Shot][product-screenshot]](https://dh-disney-plus.netlify.app/)
 
 HTML, CSS and JS site cloned from the Dsiney Plus home page.
 
