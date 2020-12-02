@@ -72,6 +72,7 @@ HTML, CSS and JS site cloned from the Dsiney Plus home page.
 ### Built With
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <!-- GETTING STARTED -->
 ## Getting Started
